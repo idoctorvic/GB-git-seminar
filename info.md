@@ -23,4 +23,7 @@
 * **git checkout master** — возвращение к последней версии
 * **git diff** — увидеть разницу между текущим файлом и закоммиченным
 
-Если вы хотите больше ~~головной боли~~ информации, пройдите по ссылке [Habr](https://github.com/sandino/Markdown-Cheatsheet#images)
+Если вы хотите больше ~~головной боли~~ информации, пройдите по ссылке: 
+* [Habr](https://github.com/sandino/Markdown-Cheatsheet#images)
+
+* [GitHub](https://github.com/sandino/Markdown-Cheatsheet#images)
