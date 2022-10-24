@@ -26,7 +26,7 @@
 **git checkout** | переход от одного коммента к другому
 **git checkout master** | возвращение к последней версии
  **git diff** | увидеть разницу между текущим файлом и закоммиченным
-
+**merge branch_name** | слияние веток
 Если вы хотите больше ~~головной боли~~ информации, пройдите по ссылке: 
 * [Habr](https://github.com/sandino/Markdown-Cheatsheet#images)
 
