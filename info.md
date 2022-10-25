@@ -32,6 +32,7 @@
 **git branch new_branch_name** | создание новой ветки
 **git branch branch_name -d** | удаление ветки
 **merge branch_name** | слияние веток
+**git push** | отправка данных на сервер, в удалённый репозиторий
 
 Если вы хотите больше ~~головной боли~~ информации, пройдите по ссылке: 
 * [Habr](https://github.com/sandino/Markdown-Cheatsheet#images)
